@@ -9,7 +9,7 @@ Yêu cầu phần cứng
 - Breadboard + dây nối.  
 
  Sơ đồ kết nối
-- LED: nối vào GPIO 4, qqua điện trở kết nối vào đất
+- LED: nối vào GPIO 4, qua điện trở kết nối vào đất
 
 
 

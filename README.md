@@ -1,7 +1,7 @@
 Dự án: Nhấp nháy LED
 
 Giới thiệu
-Dự án này sử dụng Arduino và thư viện OneButton để nhấp nháy LED kết nối với GPIO
+Dự án này sử dụng ESP32 và Platform IO để nhấp nháy LED kết nối với GPIO
 
 Yêu cầu phần cứng
 - ESP32 DevKit (hoặc board ESP32 bất kỳ).  
